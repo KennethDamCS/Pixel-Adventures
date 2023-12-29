@@ -1,4 +1,4 @@
-#Pixel Adventures <br/>
+# Pixel Adventures <br/>
 Super Mario Bros-like 2D platformer developed using Unity and C# <br/>
 Player Controls: <br/>
 -Left: A <br/>
