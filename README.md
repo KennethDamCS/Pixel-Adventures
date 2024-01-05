@@ -6,8 +6,14 @@ Player Controls: <br/>
 -Jump: SPACE <br/>
 Assets used: https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
 
+Start Screen:
+![Start screen](https://github.com/KennethDamCS/Pixel-Adventures/assets/76822620/b42c0af3-674d-42ee-8bcf-b6ea104089a2)
+
+
 Level 1:
-![image](https://github.com/KennethDamCS/Pixel-Adventures/assets/76822620/2bacb6f9-6c68-4ffa-adbe-e2f3ecf05b23)
+![Level 1](https://github.com/KennethDamCS/Pixel-Adventures/assets/76822620/92d98dfe-3e97-415a-a19c-2a2ab186cef7)
+
 
 Level 2:
-![image](https://github.com/KennethDamCS/Pixel-Adventures/assets/76822620/11bc42f3-cd02-4ef2-8641-f82a54e5bc47)
+![Level 2](https://github.com/KennethDamCS/Pixel-Adventures/assets/76822620/6d80ef13-1496-4ae0-aa15-d51c11b9ecd1)
+
